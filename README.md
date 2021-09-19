@@ -28,11 +28,11 @@
 **Social Medias:**
 
 <p align="left">
-   <a href="#" alt="Linkedin"><img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-batista-759aa01b7/"></a>
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/2/#inbox" /></a>
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/@thiagohba-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagohba/?hl=pt-br"/></a>
+   <a href="https://www.linkedin.com/in/thiago-batista-759aa01b7" alt="Linkedin"><img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
+  <a href="https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSDbFhMjmRZvRGnHTfJTfTqGnmKbqFMnSJqZppFzcXCtFGGShWXbwWljtbsnDMNbQBDMwbSF" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/thiagohba/?hl=pt-br" alt="Instagram">
+  <img src="https://img.shields.io/badge/@thiagohba-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>  
   
   
