@@ -1,4 +1,9 @@
-## Welcome to my profile
+
+# Sobre mim
+
+* 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+* 🎓 &nbsp; Estudando Engenharia de Computação no <a href="https://ifce.edu.br">IFCE</a>.
+* 💼 &nbsp; Trabalhando como **Desenvolvedor Mobile** na <a href="https://souenergy.com.br">Sou Energy</a>
 
 <div>
   <a href="https://github.com/ThiagoHBA">
@@ -19,6 +24,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  
+**Social Medias:**
+
+<p align="left">
+   <a href="#" alt="Linkedin"><img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-batista-759aa01b7/"></a>
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/2/#inbox" /></a>
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/@thiagohba-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagohba/?hl=pt-br"/></a>
+</p>  
+  
   
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
