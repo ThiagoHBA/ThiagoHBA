@@ -3,7 +3,7 @@
 
 * 🤔 &nbsp; Desenvolvendo aplicações e buscando a melhor forma para fazer isso.
 * 🎓 &nbsp; Estudando Engenharia de Computação no <a href="https://ifce.edu.br">IFCE</a>.
-* 💼 &nbsp; Trabalhando como **Desenvolvedor Mobile** na <a href="https://souenergy.com.br">Sou Energy</a>
+* 💼 &nbsp; Participando do <a href="http://developeracademy.ifce.edu.br">Apple Developer Academy IFCE</a> e absorvendo o máximo de conhecimento possível.
 
 <div>
   <a href="https://github.com/ThiagoHBA">
