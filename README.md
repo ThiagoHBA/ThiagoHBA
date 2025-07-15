@@ -2,8 +2,8 @@
 # Sobre mim
 
 * 🤔 &nbsp; Desenvolvendo aplicações e buscando a melhor forma para fazer isso.
-* 🎓 &nbsp; Estudando Engenharia de Computação no <a href="https://ifce.edu.br">IFCE</a>.
-* 💼 &nbsp; Participando do <a href="http://developeracademy.ifce.edu.br">Apple Developer Academy IFCE</a> e absorvendo o máximo de conhecimento possível.
+* 🎓 &nbsp; Engenheiro de Computação pelo <a href="https://ifce.edu.br">IFCE</a>.
+* 💼 &nbsp; Engenheiro iOS na <a href="https://www.skedway.com/pt-br/">Skedway</a>.
 
 <div>
   <a href="https://github.com/ThiagoHBA">
